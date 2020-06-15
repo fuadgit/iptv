@@ -1,62 +1,31 @@
 #EXTM3U
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/btv.png" group-title="Bangladeshi",BTV National
-http://103.205.133.14/hls/btv.m3u8
+#Uncommon BD Channels
+#EXTINF:0 tvg-logo="https://i.ibb.co/2ngv3Y0/71-Bangla-TV.jpg" group-title="Bangladeshi",71 Bangla TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/btv-world.jpg" group-title="Bangladeshi",BTV World
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZXAvBfX.png" group-title="Bangladeshi",Shopno TV
+http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/atnbangla.png" group-title="Bangladeshi",ATN Bangla
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+#EXTINF:0 tvg-logo="http://joyjatra.tv/front_end_assets/images/logo.png" group-title="Bangladeshi",Joy Jatra TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/channeli.png" group-title="Bangladeshi",Channel I HD
-https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Bangladeshi",NRB IPTV
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/ekusheyetv.png" group-title="Bangladeshi",Ekushey TV
-http://103.135.208.14/live/ibox/bd/20.m3u8
-#http://103.205.133.14/hls/ekushey.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="Bangladeshi",RANG IPTV
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/ntv.png" group-title="Bangladeshi",NTV
-https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TRfkhjY.png" group-title="Bangladeshi",KTV Bangla
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ktvbangla.stream/chunks.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/rtv.png" group-title="Bangladeshi",RTV HD
-https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="Bangladeshi",Nan TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/boishakhitv.png" group-title="Bangladeshi",Boishakhi TV
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="Bangladeshi",Deshe Bideshe
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/banglavision.png" group-title="Bangladeshi",Bangla Vision
-https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/deshtv.png" group-title="Bangladeshi",Desh TV
-http://103.205.133.14/hls/deshtv.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/mytv.png" group-title="Bangladeshi",MY TV
-http://103.3.226.74:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/mohonatv.png" group-title="Bangladeshi",Mohona TV
-https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/bijoytv.png" group-title="Bangladeshi",Bijoy TV
-http://ddn.amrbd.com:8081/live/bijoytv/chunks.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/maasrangatelevision.png" group-title="Bangladeshi",Maasranga
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/channel9.png" group-title="Bangladeshi",Channel 9
-http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
-#http://103.135.208.14/live/ibox/bd/26.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/1564319897-79989949.png" group-title="Bangladeshi",Gazi TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/asiantv.png" group-title="Bangladeshi",Asian TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangladeshi",SATV
-https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/deeptotv.png" group-title="Bangladeshi",Deepto TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="Bangladeshi",Al Dawah
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 
 
 
@@ -155,16 +124,6 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/XSMb4er.jpg" group-title="Islam",44.Makkah Live
 https://playlive.goonj.pk/makkahweb_480p/index.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Bangladeshi",45.Channel 24
-https://triangle.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Bangladeshi",46.ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-
-#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Bangladeshi",47.News 24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
- 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" tvg-country="IN" tvg-url="" group-title="Music",48.Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
@@ -249,187 +208,3 @@ https://playlive.goonj.pk/filmworldweb_480p/index.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",75.Manoranjan
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 
-
-##old
-#EXTINF:-1,NatGeo Wild
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1,NetGeo People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,ZEE TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1,ZEE cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1,ZEE BOLLYWOOD
-https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1,STAR PLUS HD
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1,STAR PLUS SD
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1,STAR GOLD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1,Colors HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,Gazi Tv
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,Maasranga
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1,Asian TV
-https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1,ATN Bangla
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1,ATN News
-https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1,Banglavision TV
-https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1,Boishakhi TV
-https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1,BTV World
-https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1,Channel 9
-https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1,Channel I
-https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1,DBC News
-https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1,Deepto TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1,Desh TV
-https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1,Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1,Ekattor TV
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1,Ekushey TV
-https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1,Independent TV
-https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1,NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1,Nagorik TV
-https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1,RTV
-https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1,SA TV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1,Colors Bangla
-https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Star Jalsha
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1,Star Jalsha Movies
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1,Star Gold
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1,Zee Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1,Zing
-https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1,WoW: Gazi Tv
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,WoW: Maasranga
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1,Asian TV
-https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1,ATN Bangla
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1,ATN News
-https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1,Banglavision TV
-https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1,Boishakhi TV
-https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1,BTV World
-https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1,Channel 9
-https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1,Channel 24
-https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1,Channel I
-https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1,DBC News
-https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1,Deepto TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1,Desh TV
-https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1,Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1,Ekattor TV
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1,Ekushey TV
-https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1,Independent TV
-https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1,Jamuna TV
-https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1,NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1,Nagorik TV
-https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1,RTV
-https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1,SA TV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1,Somoy News
-https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1,Colors Bangla
-https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Star Jalsha
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1,Star Jalsha Movies
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1,BBC World News
-https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
-#EXTINF:-1,CNN
-https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
-#EXTINF:-1,Al Jazeera
-https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
-#EXTINF:-1,DW
-https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1,Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
-#EXTINF:-1,Zee TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1,FOX Life
-https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1,NAT GEO WILD
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1,Gaan Bangla
-https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1,Sangeet Bangla
-https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1,Zoom
-https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
-#EXTINF:-1,Zee Bangla
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1,GAZI TV
-http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,Colors
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,Nat Geo People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,Star Gold
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1,Zing
-https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1,Zee Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1,Zee Classic
-https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1,Star Plus
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1,B4U Music
-https://itpolly.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
-#EXTINF:-1,Star_Plus_hd
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1,Star Bharat HS
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1,History_hindi
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1,TLC HD
-https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-#EXTINF:-1,STAR WORLD (IN):-
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:-1,MTV Beats
-https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-#EXTINF:-1,Nick JR.
-https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8

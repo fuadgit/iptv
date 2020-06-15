@@ -51,7 +51,8 @@ https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 #http://103.135.208.14/live/ibox/bd/89.m3u8
 
 #EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/bijoytv.png" group-title="Bangladeshi",Bijoy TV
-http://ddn.amrbd.com:8081/live/bijoytv/chunks.m3u8
+http://103.135.208.14/live/ibox/bd/30.m3u8
+#http://ddn.amrbd.com:8081/live/bijoytv/chunks.m3u8
 
 #EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/maasrangatelevision.png" group-title="Bangladeshi",Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
@@ -114,8 +115,8 @@ http://103.135.208.14/live/ibox/bd/18.m3u8
 #EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/ekattortv.png" group-title="Bangladeshi",Ekattor TV
 http://103.135.208.14/live/ibox/bd/88.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="Bangladeshi",Al Dawah
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/anandatv.png" group-title="Bangladeshi",Ananda TV
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
 
 
@@ -146,6 +147,13 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 http://103.214.202.218:8081/live/hbo-64/chunks.m3u8
 #https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/stargold.png" group-title="Hindi",StarGold HD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-gold-select-hd-logo-300x300.jpg" group-title="Hindi",StarGold Select HD
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
+
 #EXTINF:0 tvg-country="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
@@ -154,6 +162,16 @@ http://tv.ebox.live:8080/live/zee-tv.m3u8
 
 #EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/sony.png" group-title="Hindi",Sony
 http://103.135.208.14/live/ibox/bd/43.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/sonysab.png" group-title="Hindi",Sony Sab
+http://103.135.208.14/live/ibox/bd/45.m3u8
+#http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/colors.png" group-title="Hindi",Colors
+https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/colorshd.png" group-title="Hindi",Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #English
 #EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/comedycentral.png" group-title="Hindi",Comedy Central HD
