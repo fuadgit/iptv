@@ -63,14 +63,12 @@ https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
 
 
-#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Indian Bangla",2.Zee Bangla
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8 
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/zeebanglahd.png" group-title="Indian Bangla",Zee Bangla
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Indian Bangla",3.Star Jalsha HD
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8 
+ 
 
-#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Bangladeshi",4.Nagorik TV
-https://triangle.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+
 
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Indian Bangla",5.Jalsha Movies
 http://otv.ftpbd.net/streams/115/index.m3u8
@@ -105,7 +103,7 @@ https://triangle.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Bangladeshi",22.Somoy TV
 https://triangle.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 
-#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Indian Bangla",24.Colors Bangla HD
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/colorsbangla.png" group-title="Indian Bangla",24.Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 
 #EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Bangladeshi",26.DBC News
