@@ -57,3 +57,6 @@ https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 
 #EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/deeptotv.png" group-title="Bangladeshi",Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/banglatv.png" group-title="Bangladeshi",Bangla TV
+http://tempx.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
