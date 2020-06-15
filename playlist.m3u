@@ -173,6 +173,49 @@ https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 #EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/colorshd.png" group-title="Hindi",Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
+#Music
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/sangeetbangla.png" group-title="Music",Sangeet Bangla
+https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="https://br360.tv/wp-content/uploads/2016/09/Zoom_TV-min-340x340.png" group-title="Music",Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/zing.png" group-title="Music",Zing
+https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
+#https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="Music",Dhoom Music
+https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg group-title="Music",9XM
+http://103.144.200.7:8080/hls/9xm/index.m3u8
+
+#EXTINF:0 tvg-logo="https://akashdth.com/assets/uploads/channels_images/mtvbeatshd.png" group-title="Music",MTV Beats
+https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.divyaupchar.com/wp-content/uploads/2018/05/2-1.jpg" group-title="Music",Manoranjan
+https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/b4umusic.png" group-title="Music",B4U Music
+http://103.135.208.14/live/ibox/bd/108.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" tvg-country="IN" tvg-url="" group-title="Music",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" tvg-country="IN" tvg-url="" group-title="Music",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#http://103.144.200.7:8080/hls/masti2/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" tvg-country="IN" tvg-url="" group-title="Music",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-country="IN" tvg-url="" group-title="Music",Kadak Hits
+https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
+
 #English
-#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/comedycentral.png" group-title="Hindi",Comedy Central HD
+#EXTINF:0 tvg-country="BD" tvg-logo="https://akashdth.com/assets/uploads/channels_images/comedycentral.png" group-title="English",Comedy Central HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Music",& Prive HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
